@@ -10,7 +10,7 @@ Arma3 Altislife 5.0 汉化版本
 
 vc++ 2015        下载地址 https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
-xampp            下载地址 https://www.apachefriends.org/zh_cn/download.html
+xampp             下载地址 https://www.apachefriends.org/zh_cn/download.html
 
 navicat            下载地址 http://www.navicat.com.cn/download/navicat-for-mysql
 
@@ -19,7 +19,7 @@ navicat            下载地址 http://www.navicat.com.cn/download/navicat
 
 以下只提供原版下载地址，本文件已经包含无需下载
 
-altislife 5.0 原版    下载地址 https://github.com/AsYetUntitled/Framework
+altislife 5.0      下载地址 https://github.com/AsYetUntitled/Framework
 
 extdb3              下载地址 https://bitbucket.org/torndeco/extdb3/downloads/
 
