@@ -19,7 +19,7 @@ navicat            下载地址 http://www.navicat.com.cn/download/navicat
 
 以下只提供原版下载地址，本文件已经包含无需下载
 
-altislife 5.0             下载地址 https://github.com/AsYetUntitled/Framework
+altislife 5.0            下载地址 https://github.com/AsYetUntitled/Framework
 
 extdb3              下载地址 https://bitbucket.org/torndeco/extdb3/downloads/
 
