@@ -12,7 +12,7 @@ altislife 5.0 原版   下载地址 https://github.com/AsYetUntitled/Framework
 
 extdb3               下载地址 https://bitbucket.org/torndeco/extdb3/downloads/
 
-vc++ 2015            下载地址 https://www.microsoft.com/en-us/download/details.aspx?id=48145
+vc++ 2015      下载地址 https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 
 
