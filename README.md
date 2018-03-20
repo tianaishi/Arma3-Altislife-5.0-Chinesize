@@ -10,9 +10,9 @@ Arma3 Altislife 5.0 汉化版本
 
 vc++ 2015        下载地址 https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
-xampp          下载地址 https://www.apachefriends.org/zh_cn/download.html
+xampp            下载地址 https://www.apachefriends.org/zh_cn/download.html
 
-navicat        下载地址 http://www.navicat.com.cn/download/navicat-for-mysql
+navicat            下载地址 http://www.navicat.com.cn/download/navicat-for-mysql
 
 
 
