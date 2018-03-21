@@ -15,6 +15,7 @@ xampp               下载地址 https://www.apachefriends.org/zh_cn/downl
 navicat            下载地址 http://www.navicat.com.cn/download/navicat-for-mysql
 
 视频教程地址
+
 优酷               http://v.youku.com/v_show/id_XMzQ3OTg5OTEwMA==.html?spm=a2h3j.8428770.3416059.1
 YouTube            https://youtu.be/8U4VoOmYPrY
 
