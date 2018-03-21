@@ -19,6 +19,8 @@ navicat            下载地址 http://www.navicat.com.cn/download/navicat
 
 优酷               http://v.youku.com/v_show/id_XMzQ3OTg5OTEwMA==.html?spm=a2h3j.8428770.3416059.1
 
+bilibili           https://www.bilibili.com/video/av21039215/
+
 YouTube            https://youtu.be/8U4VoOmYPrY
 
 
